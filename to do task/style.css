@@ -19,6 +19,7 @@ body {
 .container h1{
     text-align: center;
     color: white;
+    padding: 30px;
 }
 
 .list input[type="text"] {
@@ -73,7 +74,6 @@ li {
     outline: none;
     border-color: #007bff; /* Optionally change border color when focused */
 }
-
 
 .list input[type="text"], .list button, 
 .delete-btn{
