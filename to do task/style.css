@@ -49,7 +49,7 @@ li {
     display: flex;
     gap: 100px;
     color: white;
-    text-align: center;
+    text-align: left;
 }
 
 .delete-btn {
